@@ -40,7 +40,10 @@ To set up and run the project locally:
 
 2. **Install Dependencies**: Install the required libraries using:
     ```sh
-    pip install -r requirements.txt
+    !pip install tensorflow==2.17.0 | tail -n 1
+    !pip install numpy==1.24.3 | tail -n 1
+    !pip install scikit-learn==1.5.1  | tail -n 1
+    !pip install matplotlib==3.9.2  | tail -n 1
     ```
 
 3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `waste_classifier.ipynb` to train and evaluate the model.
