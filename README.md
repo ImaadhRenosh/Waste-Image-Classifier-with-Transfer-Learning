@@ -79,4 +79,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For any questions or suggestions, feel free to reach out:
 - **Email:** imaadhrenosh@gmail.com
-- **LinkedIn:** (www.linkedin.com/in/imaadh-renosh-007aba348)
+- **LinkedIn profile**: [LinkedIn profile](https://www.linkedin.com/in/imaadh-renosh-007aba348)
+
+
