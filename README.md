@@ -71,13 +71,11 @@ To set up and run the project locally:
 
 - **Screenshot 7/ Pre-Trained Models / VGG-16**:
 <img width="1022" alt="Screenshot 2025-03-15 at 06 08 26" src="https://github.com/user-attachments/assets/269b29d9-0141-444d-a5b7-311dcc10a673" />
-
-- **Screenshot 7/ Pre-Trained Models / VGG-16**:
 <img width="951" alt="Screenshot 2025-03-15 at 06 32 05" src="https://github.com/user-attachments/assets/a4ee31a0-ad83-446d-8459-67e6e69cbcf4" />
 <img width="689" alt="Screenshot 2025-03-15 at 06 32 33" src="https://github.com/user-attachments/assets/ca32f259-6ae5-4dcd-9503-23ee8c9f1693" />
 
 
-- **Screenshot 7/ Step 2: Compile the Model**
+- **Screenshot 9/ Step 2: Compile the Model**
 <img width="501" alt="Screenshot 2025-03-15 at 06 33 16" src="https://github.com/user-attachments/assets/924db8fe-261e-45cc-ab2e-f258c14b8225" />
 
 - **Model Summary**
