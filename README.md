@@ -1,5 +1,3 @@
-<img width="665" alt="Screenshot 2025-03-15 at 07 43 58" src="https://github.com/user-attachments/assets/72fa8d60-a33b-47a2-a920-27618e37a8db" /># Waste-Image-Classifier-with-Transfer-Learning
-
 ## Table of Contents
 - [Overview](#overview)
 - [Aim of the Project](#aim-of-the-project)
