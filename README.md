@@ -1,4 +1,4 @@
-# Waste-Image-Classifier-with-Transfer-Learning
+<img width="665" alt="Screenshot 2025-03-15 at 07 43 58" src="https://github.com/user-attachments/assets/72fa8d60-a33b-47a2-a920-27618e37a8db" /># Waste-Image-Classifier-with-Transfer-Learning
 
 ## Table of Contents
 - [Overview](#overview)
@@ -105,6 +105,39 @@ To set up and run the project locally:
 <img width="565" alt="Screenshot 2025-03-15 at 07 00 48" src="https://github.com/user-attachments/assets/2770f1ce-fab5-41df-ab10-b47b1e8d65d7" />
 <img width="539" alt="Screenshot 2025-03-15 at 07 01 07" src="https://github.com/user-attachments/assets/cbafe59d-9350-44ce-93cc-38f9eb519322" />
 
+
+-**Screenshot 14/ Step 6: Fine-Tuning model**
+<img width="417" alt="Screenshot 2025-03-15 at 07 39 03" src="https://github.com/user-attachments/assets/f1e073b9-cfab-46e3-b15b-ff9a4107fd2b" />
+
+**Similar to what was done before, I will create a new model on top, and add a Dropout layer for regularization.**
+<img width="735" alt="Screenshot 2025-03-15 at 07 40 14" src="https://github.com/user-attachments/assets/ed1fdea9-229f-46e9-a7c9-20b622c14f00" />
+<img width="1015" alt="Screenshot 2025-03-15 at 07 40 49" src="https://github.com/user-attachments/assets/a6e4f0e0-f226-4fc5-88fc-f79b1383dd12" />
+
+
+-**Screenshot 15/ Step 7: Plot loss curves for training and validation sets (fine-tune model)**
+<img width="571" alt="Screenshot 2025-03-15 at 07 41 52" src="https://github.com/user-attachments/assets/5728a2ea-8694-44cc-aad3-fd3c9d0cb4a6" />
+<img width="506" alt="Screenshot 2025-03-15 at 07 42 19" src="https://github.com/user-attachments/assets/53cd076a-d398-46a4-ae65-40cfb739bdfd" />
+
+
+
+-**Screenshot 15/ Step 8: Plot accuracy curves for training and validation sets (fine tune model)**
+<img width="666" alt="Screenshot 2025-03-15 at 07 44 15" src="https://github.com/user-attachments/assets/94e9abff-7316-4271-96b7-a0c75407e874" />
+<img width="541" alt="Screenshot 2025-03-15 at 07 44 32" src="https://github.com/user-attachments/assets/5e426a7c-4eef-4a40-9b71-b43a27258019" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-**Screenshot 15/ Step 5: Plot accuracy curves for training and validation sets (extract_feat_model)**
 
 
 
