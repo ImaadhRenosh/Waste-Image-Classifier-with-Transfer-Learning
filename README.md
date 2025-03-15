@@ -80,7 +80,7 @@ To set up and run the project locally:
 - **Screenshot 7/ Step 2: Compile the Model**
 <img width="501" alt="Screenshot 2025-03-15 at 06 33 16" src="https://github.com/user-attachments/assets/924db8fe-261e-45cc-ab2e-f258c14b8225" />
 
--** Model Summary ***-
+- **Model Summary**
 <img width="806" alt="Screenshot 2025-03-15 at 06 35 07" src="https://github.com/user-attachments/assets/f6f99d4c-1d15-41e9-befb-d453aec28d5f" />
 
 CallBack
