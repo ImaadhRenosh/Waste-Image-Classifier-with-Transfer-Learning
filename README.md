@@ -109,7 +109,8 @@ To set up and run the project locally:
 -**Screenshot 14/ Step 6: Fine-Tuning model**
 <img width="417" alt="Screenshot 2025-03-15 at 07 39 03" src="https://github.com/user-attachments/assets/f1e073b9-cfab-46e3-b15b-ff9a4107fd2b" />
 
-**Similar to what was done before, I will create a new model on top, and add a Dropout layer for regularization.**
+
+-**Similar to what was done before, I will create a new model on top, and add a Dropout layer for regularization.**
 <img width="735" alt="Screenshot 2025-03-15 at 07 40 14" src="https://github.com/user-attachments/assets/ed1fdea9-229f-46e9-a7c9-20b622c14f00" />
 <img width="1015" alt="Screenshot 2025-03-15 at 07 40 49" src="https://github.com/user-attachments/assets/a6e4f0e0-f226-4fc5-88fc-f79b1383dd12" />
 
@@ -120,33 +121,35 @@ To set up and run the project locally:
 
 
 
--**Screenshot 15/ Step 8: Plot accuracy curves for training and validation sets (fine tune model)**
+-**Screenshot 16/ Step 8: Plot accuracy curves for training and validation sets (fine tune model)**
 <img width="666" alt="Screenshot 2025-03-15 at 07 44 15" src="https://github.com/user-attachments/assets/94e9abff-7316-4271-96b7-a0c75407e874" />
 <img width="541" alt="Screenshot 2025-03-15 at 07 44 32" src="https://github.com/user-attachments/assets/5e426a7c-4eef-4a40-9b71-b43a27258019" />
 
 
+-**Screenshot 17/ Step 9: Evaluate both models on test data**
+
+<img width="1044" alt="Screenshot 2025-03-15 at 07 50 50" src="https://github.com/user-attachments/assets/a05a1720-63d7-4538-84a5-108e61f95a09" />
+<img width="716" alt="Screenshot 2025-03-15 at 07 51 18" src="https://github.com/user-attachments/assets/dd026f3a-3137-4e21-9cf1-e28130ffa642" />
 
 
 
+<img width="739" alt="Screenshot 2025-03-15 at 07 52 43" src="https://github.com/user-attachments/assets/ac1bec91-83c9-4594-b847-1c7c5c9a53a2" />
+
+
+-**Screenshot 18/ Step 10: Plot a test image using Extract Features Model (index_to_plot = 1)**
+
+<img width="1006" alt="Screenshot 2025-03-15 at 07 54 21" src="https://github.com/user-attachments/assets/af8f4772-7737-42c5-9837-9d3c4101b260" />
+<img width="484" alt="Screenshot 2025-03-15 at 07 54 46" src="https://github.com/user-attachments/assets/599779a2-13bf-4677-b476-2f55aeb4bc1b" />
 
 
 
+-**Screenshot 19/ Step 11: Plot a test image using Fine-Tuned Model (index_to_plot = 1)**
+<img width="1005" alt="Screenshot 2025-03-15 at 07 55 58" src="https://github.com/user-attachments/assets/bca84ab8-264b-4b34-82fc-20c6b84411b8" />
+<img width="580" alt="Screenshot 2025-03-15 at 07 56 19" src="https://github.com/user-attachments/assets/65d43694-01d6-4680-b044-28e862d7b219" />
 
 
 
-
-
-
--**Screenshot 15/ Step 5: Plot accuracy curves for training and validation sets (extract_feat_model)**
-
-
-
-
-
-
-
-
-
+<img width="397" alt="Screenshot 2025-03-15 at 07 56 41" src="https://github.com/user-attachments/assets/dc771448-ac2c-4248-b634-da3b82b69cb8" />
 
 ## Usage
 After launching the Jupyter Notebook, you can:
@@ -161,7 +164,7 @@ Contributions are welcome! If you’d like to improve this project, please follo
 4. Open a pull request detailing your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the IBM Corporation. See the final screenshot for details.
 
 ## Acknowledgements
 - Thanks to the contributors of TensorFlow, Keras, and OpenCV.
