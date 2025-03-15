@@ -53,25 +53,32 @@ To set up and run the project locally:
 - **Screenshot 1/ Importing Required Libraries**:
 <img width="716" alt="Screenshot 2025-03-15 at 05 59 51" src="https://github.com/user-attachments/assets/2d92812a-95c8-42fb-8414-e3040bcd0842" />
 
+
 - **Screenshot 2/ Importing Data**:
 <img width="1011" alt="Screenshot 2025-03-15 at 06 01 10" src="https://github.com/user-attachments/assets/7fabec08-c102-4b0f-a662-0ba234db9228" />
 
+
 - **Screenshot 3/ Defining configuration options**:
 <img width="456" alt="Screenshot 2025-03-15 at 06 02 25" src="https://github.com/user-attachments/assets/b194e7f8-a6fd-4aa0-8e43-67daa4f12589" />
+
 
 - **Screenshot 4/ ImageDataGenerators**:
 <img width="1084" alt="Screenshot 2025-03-15 at 06 03 29" src="https://github.com/user-attachments/assets/c7dc33eb-82cd-45c4-bc3a-90a44d8639d5" />
 <img width="486" alt="Screenshot 2025-03-15 at 06 04 53" src="https://github.com/user-attachments/assets/d004efb8-70d2-4e30-9135-f0896ef4ea2c" />
 
+
 - **Screenshot 5/ Step 1: Creating a test_generator using the test_datagen object**:
 <img width="572" alt="Screenshot 2025-03-15 at 06 05 22" src="https://github.com/user-attachments/assets/99cb60dd-3ed2-466b-9e51-8a53e95b7e41" />
+
 
 - **Screenshot 6/ Let's look at a few augmented images**::
 <img width="1014" alt="Screenshot 2025-03-15 at 06 07 29" src="https://github.com/user-attachments/assets/adc582ca-b0e0-41bd-abc0-8af0d7ea9771" />
 
+
 - **Screenshot 7/ Pre-Trained Models / VGG-16**:
 <img width="1022" alt="Screenshot 2025-03-15 at 06 08 26" src="https://github.com/user-attachments/assets/269b29d9-0141-444d-a5b7-311dcc10a673" />
 <img width="951" alt="Screenshot 2025-03-15 at 06 32 05" src="https://github.com/user-attachments/assets/a4ee31a0-ad83-446d-8459-67e6e69cbcf4" />
+
 
 - **Screenshot 8/ Model Summary**:
 <img width="689" alt="Screenshot 2025-03-15 at 06 32 33" src="https://github.com/user-attachments/assets/ca32f259-6ae5-4dcd-9503-23ee8c9f1693" />
@@ -80,7 +87,8 @@ To set up and run the project locally:
 - **Screenshot 9/ Step 2: Compile the Model**:
 <img width="501" alt="Screenshot 2025-03-15 at 06 33 16" src="https://github.com/user-attachments/assets/924db8fe-261e-45cc-ab2e-f258c14b8225" />
 
-- **Callback function with Tuning Rate Scheduler **
+
+- **Callback function with Learning Rate Scheduler**
 <img width="806" alt="Screenshot 2025-03-15 at 06 35 07" src="https://github.com/user-attachments/assets/f6f99d4c-1d15-41e9-befb-d453aec28d5f" />
 
 
