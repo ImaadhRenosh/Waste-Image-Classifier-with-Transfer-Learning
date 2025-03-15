@@ -108,7 +108,7 @@ To set up and run the project locally:
 <img width="417" alt="Screenshot 2025-03-15 at 07 39 03" src="https://github.com/user-attachments/assets/f1e073b9-cfab-46e3-b15b-ff9a4107fd2b" />
 
 
--**Similar to what was done before, I will create a new model on top, and add a Dropout layer for regularization.**
+-**Similar to what was done before, I will create a new model on top, and add a Dropout layer for regularization**
 <img width="735" alt="Screenshot 2025-03-15 at 07 40 14" src="https://github.com/user-attachments/assets/ed1fdea9-229f-46e9-a7c9-20b622c14f00" />
 <img width="1015" alt="Screenshot 2025-03-15 at 07 40 49" src="https://github.com/user-attachments/assets/a6e4f0e0-f226-4fc5-88fc-f79b1383dd12" />
 
