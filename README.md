@@ -88,8 +88,20 @@ To set up and run the project locally:
 <img width="501" alt="Screenshot 2025-03-15 at 06 33 16" src="https://github.com/user-attachments/assets/924db8fe-261e-45cc-ab2e-f258c14b8225" />
 
 
-- **Callback function with Learning Rate Scheduler**
+- **Screenshot 10/ Callback function with Learning Rate Scheduler**
 <img width="806" alt="Screenshot 2025-03-15 at 06 35 07" src="https://github.com/user-attachments/assets/f6f99d4c-1d15-41e9-befb-d453aec28d5f" />
+
+
+- **Screenshot 11/ Step 3: Fit and train the model**
+<img width="1028" alt="Screenshot 2025-03-15 at 06 49 42" src="https://github.com/user-attachments/assets/b2fd1329-3ff3-485c-ac2f-7f293d3484a7" />
+
+
+- **Screenshot 12/ Step 4: Plot loss curves for training and validation sets (extract_feat_model)**
+<img width="705" alt="Screenshot 2025-03-15 at 06 51 15" src="https://github.com/user-attachments/assets/080ee93c-7466-44ad-987d-866f935c2560" />
+
+
+<img width="740" alt="Screenshot 2025-03-15 at 06 57 02" src="https://github.com/user-attachments/assets/5e9377f7-0d6a-48ba-8924-adb0c7e7b75a" />
+
 
 
 
