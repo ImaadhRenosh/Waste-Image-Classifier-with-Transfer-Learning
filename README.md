@@ -98,9 +98,16 @@ To set up and run the project locally:
 
 - **Screenshot 12/ Step 4: Plot loss curves for training and validation sets (extract_feat_model)**
 <img width="705" alt="Screenshot 2025-03-15 at 06 51 15" src="https://github.com/user-attachments/assets/080ee93c-7466-44ad-987d-866f935c2560" />
+<img width="471" alt="Screenshot 2025-03-15 at 06 58 59" src="https://github.com/user-attachments/assets/8b72f4ee-ed56-4b68-bf89-fd571a471839" />
 
 
-<img width="740" alt="Screenshot 2025-03-15 at 06 57 02" src="https://github.com/user-attachments/assets/5e9377f7-0d6a-48ba-8924-adb0c7e7b75a" />
+-**Screenshot 13/ Step 5: Plot accuracy curves for training and validation sets (extract_feat_model)**
+<img width="565" alt="Screenshot 2025-03-15 at 07 00 48" src="https://github.com/user-attachments/assets/2770f1ce-fab5-41df-ab10-b47b1e8d65d7" />
+<img width="539" alt="Screenshot 2025-03-15 at 07 01 07" src="https://github.com/user-attachments/assets/cbafe59d-9350-44ce-93cc-38f9eb519322" />
+
+
+
+
 
 
 
