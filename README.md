@@ -12,10 +12,10 @@
 - [Contact](#contact)
 
 ## Overview
-EcoClean currently lacks an efficient and scalable method to automate the waste sorting process. The manual sorting of waste is not only labor-intensive but also prone to errors, leading to contamination of recyclable materials. The goal of this project is to leverage machine learning and computer vision to automate the classification of waste products, improving efficiency and reducing contamination rates. The project will use transfer learning with a pre-trained VGG16 model to classify images.
+EcoClean currently lacks an efficient and scalable method to automate the waste sorting process. The manual sorting of waste is not only labor-intensive but also prone to errors, leading to contamination and inefficient recycling. To address these issues, I have developed this project to use transfer learning and image classification to automate waste sorting.
 
 ## Aim of the Project
-The aim of the project is to develop an automated waste classification model that can accurately differentiate between recyclable and organic waste based on images. By the end of this project, you will have trained, fine-tuned, and evaluated a model using transfer learning, which can then be applied to real-world waste management processes.
+The aim of this project is to develop an automated waste classification model that can accurately differentiate between recyclable and organic waste based on images. By the end of this project, I aim to provide a robust solution to improve the efficiency and accuracy of the waste sorting process.
 
 ## Technologies Used
 - **Programming Language:** Python
