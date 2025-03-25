@@ -65,7 +65,7 @@ To set up and run the project locally:
 <img width="486" alt="Screenshot 2025-03-15 at 06 04 53" src="https://github.com/user-attachments/assets/d004efb8-70d2-4e30-9135-f0896ef4ea2c" />
 
 
-- **Step 1: Creating a test_generator using the test_datagen object**:
+- Step 1: Creating a test_generator using the test_datagen object**:
 <img width="572" alt="Screenshot 2025-03-15 at 06 05 22" src="https://github.com/user-attachments/assets/99cb60dd-3ed2-466b-9e51-8a53e95b7e41" />
 
 
