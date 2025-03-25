@@ -162,7 +162,7 @@ Contributions are welcome! If you’d like to improve this project, please follo
 4. Open a pull request detailing your changes.
 
 ## License
-This project is licensed under the IBM Corporation. See the final screenshot for details.
+This project is licensed under © IBM Corporation. All rights reserved.
 
 ## Acknowledgements
 - Thanks to the contributors of TensorFlow, Keras, and OpenCV.
