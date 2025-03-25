@@ -46,7 +46,7 @@ To set up and run the project locally:
 
 3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `waste_classifier.ipynb` to train and evaluate the model.
 
-## Screenshots / Demo
+## Demo
 
 <h2 style="font-size: 2em; margin: 20px 0; border-bottom: 2px solid;">Importing Required Libraries</h2>
 <img width="716" alt="Screenshot 2025-03-15 at 05 59 51" src="https://github.com/user-attachments/assets/2d92812a-95c8-42fb-8414-e3040bcd0842" />
@@ -92,7 +92,6 @@ To set up and run the project locally:
 <img width="539" alt="Screenshot 2025-03-15 at 07 01 07" src="https://github.com/user-attachments/assets/cbafe59d-9350-44ce-93cc-38f9eb519322" />
 
 <h2 style="font-size: 2em; margin: 20px 0; border-bottom: 2px solid;">Step 6: Fine-Tuning model</h2>
-Let's fine-tune the model by adjusting the relevant parameters.
 <img width="417" alt="Screenshot 2025-03-15 at 07 39 03" src="https://github.com/user-attachments/assets/f1e073b9-cfab-46e3-b15b-ff9a4107fd2b" />
 
 <h2 style="font-size: 2em; margin: 20px 0; border-bottom: 2px solid;">Similar to what was done before, I will create a new model on top, and add a Dropout layer for regularization</h2>
