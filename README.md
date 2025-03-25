@@ -48,7 +48,7 @@ To set up and run the project locally:
 
 ## Screenshots / Demo
 
-- Importing Required Libraries**:
+- Importing Required Libraries:
 <img width="716" alt="Screenshot 2025-03-15 at 05 59 51" src="https://github.com/user-attachments/assets/2d92812a-95c8-42fb-8414-e3040bcd0842" />
 
 
